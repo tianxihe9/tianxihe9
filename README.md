@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tianxi He. I am from China. Graduate from @Rose-Hulman US.
 - 👀 I am not yet find what I am interested in. Currently I am learning on building a website. 
-- 🌱 I was working at HSBC to build the banking system @Guangzhou China.
+- 🌱 I am working at HSBC to build the banking system @Guangzhou China.
 
 
 <!---
